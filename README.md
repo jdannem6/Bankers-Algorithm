@@ -10,7 +10,7 @@ The Banker's Algorithm is a deadlock avoidance algorithm which provides insight 
 ### Prerequisites
 This project was tested on a system consisting of a g++ compiler, a gdb debugger, and Ubuntu 20.04.2 LTS.
 
-### Installation
+## Installation
 1. Clone the git repository
 ![](Repository_Cloning.png)
 
